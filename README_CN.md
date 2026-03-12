@@ -21,6 +21,8 @@
 
 youtube: https://youtu.be/rw041Trkbvc
 
+https://youtu.be/7rI36_RGtyo
+
 这是我的第一个项目，代码可能写得不太好
 
 但是我在网上找不到什么程序或rainmeter skin有这种效果，所以我做了这个
