@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README_CN.md)
 # 桌面文件夹启动器
 通过rainmeter实现在电脑桌面上以类似手机文件夹的方式启动程序
 
