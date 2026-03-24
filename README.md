@@ -46,3 +46,9 @@ with the addition of a feature that automatically detects shortcuts.
 Here is the link to his work:
 [https://visualskins.com/skin/animated-circular-icon-launcher](https://visualskins.com/skin/animated-circular-icon-launcher)
 
+And, thanks to SahiI / MaybeSahiI / Runixe786, the authers of **MD3 Windows**. I get dynamic color picking
+scheme from their work. I love Material Design 3.
+
+Here is the link to their work:
+https://github.com/Runixe786/MD3-Windows
+
