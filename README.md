@@ -26,8 +26,9 @@ copy that folder, paste it into the parent directory, and rename it to any name 
 Open the **@Resources** directory and you will find **UserSettings.ini**, where several configuration
 values can be adjusted.
 
-Note: the maximum number of shortcuts is **20**. When there are more than **12**, the layout may look
-crowded. This issue will be addressed in the next version.
+~~Note: the maximum number of shortcuts is **20**. When there are more than **12**, the layout may look
+crowded. This issue will be addressed in the next version.~~
+Solved, two layers
 
 YouTube:
 https://youtu.be/rw041Trkbvc
