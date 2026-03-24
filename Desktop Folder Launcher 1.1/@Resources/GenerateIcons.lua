@@ -102,8 +102,12 @@ function Expand()
     -- Scale the roundline radius when using the outer ring
     if useOuter then
         SKIN:Bang("!SetVariable", "CircleScale", "1.5")
+        SKIN:Bang("!SetVariable", "LineLengthScale", "1.1")
+        SKIN:Bang("!SetVariable", "LineStartScale", "1.0")
     else
         SKIN:Bang("!SetVariable", "CircleScale", "1.0")
+        SKIN:Bang("!SetVariable", "LineLengthScale", "0.7")
+        SKIN:Bang("!SetVariable", "LineStartScale", "1.7")
     end
 
     local innerAngleStep = (2 * math.pi) / innerCount
