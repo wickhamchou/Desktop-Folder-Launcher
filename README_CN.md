@@ -1,3 +1,4 @@
+[English](README.md) | [简体中文](README_CN.md)
 # 桌面文件夹启动器
 通过rainmeter实现在电脑桌面上以类似手机文件夹的方式启动程序
 
@@ -28,6 +29,12 @@ https://youtu.be/7rI36_RGtyo
 
 但是我在网上找不到什么程序或rainmeter skin有这种效果，所以我做了这个
 
-另，感谢Circular Icon Launcher的作者Sjoti，我在他的作品的基础上 加入了能够自动识别快捷方式的功能
+另，感谢**Circular Icon Launcher**的作者Sjoti，我在他的作品的基础上 加入了能够自动识别快捷方式的功能
 
 这里是他的作品的链接：https://visualskins.com/skin/animated-circular-icon-launcher
+
+以及，感谢**MD3 Windows**的作者SahiI / MaybeSahiI / Runixe786，我通过他们的作品得到了动态取色方案。
+MaterialYou是唯一真神！！！
+
+这是他们作品的链接：https://github.com/Runixe786/MD3-Windows
+
