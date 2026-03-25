@@ -85,11 +85,11 @@ function Expand()
     local innerCount = slots
     local outerCount = 0
     local useOuter = false
-    if slots > 10 and slots <= 19 then
+    if slots > 10 and slots <= 20 then
         innerCount = 5
         outerCount = slots - innerCount
         useOuter = true
-    elseif slots > 19 and slots <= 26 then
+    elseif slots > 20 and slots <= 26 then
         outerCount = 16
         innerCount = slots - outerCount
         useOuter = true
