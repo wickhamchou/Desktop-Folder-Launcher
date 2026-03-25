@@ -21,9 +21,7 @@
 ~~注意快捷方式的最大数量为20，超过12个就会看起来很拥挤，我会在下一个版本 解决这个问题~~
 已解决，分两层
 
-youtube: https://youtu.be/rw041Trkbvc
-
-https://youtu.be/7rI36_RGtyo
+youtube: https://youtu.be/DzUAus-7AZ8
 
 这是我的第一个项目，代码可能写得不太好
 
